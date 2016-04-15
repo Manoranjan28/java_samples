@@ -1,0 +1,11 @@
+Java 7 features
+        Strings in switch statement
+        Automatic resource management in try-statement(AutoCloseable)
+        Improved type inference for generic instance creation, aka the diamond operator <>
+        Working with Path - A new java.nio.file package consists of classes and interfaces such as Path, Paths, FileSystem, FileSystems and others.
+        Simplified varargs method declaration
+        Binary integer literals
+        Allowing underscores in numeric literals
+        Catching multiple exception types and rethrowing exceptions with improved type checking
+        New file I/O library (defined by JSR 203) adding support for multiple file systems, file metadata and symbolic links. The new packages are java.nio.file, java.nio.file.attribute and java.nio.file.spi
+        Fork and Join

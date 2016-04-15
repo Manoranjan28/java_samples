@@ -1,0 +1,9 @@
+Java 8 features
+        lambda expressions 
+        Stream Collection Types (java.util.stream). parallel processing
+        Project Nashorn, a JavaScript runtime which allows developers to embed JavaScript code within applications
+        Annotation on Java Types
+        Functional interfaces - default methods are added to an interface and do not have to be overridden in the interface implementation. These methods can be run directly from the interface
+        Remove the permanent generation
+        java.util.concurrent
+
